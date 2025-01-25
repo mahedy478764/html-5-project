@@ -9,6 +9,9 @@ nav li>a{
 footer{
     text-align: center;
 }
-/* header{ */
+ header{ 
     text-align: center;
+}
+nav li:hover{
+    background-color: aqua;
 }
