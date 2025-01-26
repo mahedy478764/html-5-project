@@ -1,0 +1,11 @@
+td,th {
+    border: 2px solid blue;
+    padding: 5px;
+}
+table{
+    border-collapse: collapse;
+}
+#three{
+    text-align: center;
+    font-weight: bolder;
+}
